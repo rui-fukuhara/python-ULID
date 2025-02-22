@@ -1,0 +1,1 @@
+# pythonでULIDを生成する
